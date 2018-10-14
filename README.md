@@ -1,5 +1,3 @@
-# teamindra
-
 <div align="center">
   <img src="https://imgur.com/TNlJ3Bu.png">
 </div>
